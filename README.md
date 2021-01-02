@@ -1,7 +1,7 @@
 ## parsing data for deeplearning
 
 
-#original data form
+original data form
 
 
 
